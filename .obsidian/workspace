@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "415aa5320f4ed1a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5205445535a20ebf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Science/Biology/Microscope.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "855407d760a8d7cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba3c3a1335e4b38b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62dd00fb10b0e08d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e385ac8cba8173cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bc6ed1727301e5e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b564b05e6628b78e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c50a73f9da899a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd2071bd26d5c9a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Science/Biology/Microscope.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f1b56d80021be1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Science/Biology/Microscope.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7cbc79ef1b1eae7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd44dac10a587245",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Science/Biology/Microscope.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5205445535a20ebf",
+  "lastOpenFiles": []
+}
