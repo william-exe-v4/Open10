@@ -7,12 +7,8 @@
         "id": "5205445535a20ebf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Science/Biology/Microscope.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Biology/Microscope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Science/Biology/Microscope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science/Biology/Microscope.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,5 +121,14 @@
     "collapsed": true
   },
   "active": "5205445535a20ebf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2022-07-30.md",
+    "Science/Biology/Plant Parts.md",
+    "Science/Biology/Cell Organelles.md",
+    "Science/Biology/Microscope.md",
+    "Science/Biology/Tropism.md",
+    "Science/Biology/Cell Theory.md",
+    "Science/Biology/Hypertonic and Hypotonic.md",
+    "Science/Chemistry/Common Compounds.md"
+  ]
 }

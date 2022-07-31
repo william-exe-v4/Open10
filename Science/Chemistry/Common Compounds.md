@@ -1,0 +1,9 @@
+# Common Compounds
+- Water: H<sub>2</sub>O
+- Sucrose: C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>
+- Ammonia: NH<sub>4</sub>
+- Glucose: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>
+- Ethanol: C<sub>2</sub>H<sub>5</sub>OH
+- Methane: CH<sub>4</sub>
+- Benzoate: C<sub>7</sub>H<sub>5</sub>O<sub>2</sub>
+- Manganate: MnO<sub>4</sub>
